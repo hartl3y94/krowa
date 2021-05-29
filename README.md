@@ -5,12 +5,12 @@
 
 <p align="center">
     <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code%20style-standard-%234f2218?style=for-the-badge" style="max-width:100%;" alt="style"/></a>
-    <a href="https://discord.gg/WK2qTecTkJ"><img src="https://img.shields.io/badge/discord-krowa-blue.svg?style=flat-square" alt="discord"></a>
-    <a href="https://www.npmjs.com/package/krowa"><img src="https://img.shields.io/npm/v/krowa.svg?style=flat-square" alt="npm"></a>
-    <a href="https://travis-ci.com/colenh/krowa"><img src="https://img.shields.io/travis/com/colenh/krowa?style=flat-square" alt="build"/></a>
-    <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fcolenh%2Fkrowa?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcolenh%2Fkrowa.svg?type=shield" alt="license"></a>
-    <a href="https://david-dm.org/colenh/krowa"><img src="https://status.david-dm.org/gh/colenh/krowa.svg?style=flat-square" alt="dependencies"></a>
-    <a href="https://david-dm.org/colenh/krowa"><img src="https://img.shields.io/snyk/vulnerabilities/npm/krowa.svg?style=flat-square" alt="vulnerabilities"></a>
+    <a href="https://discord.gg/WK2qTecTkJ"><img src="https://img.shields.io/badge/discord-krowa-%234f2218?style=for-the-badge" style="max-width:100%;" alt="discord"></a>
+    <a href="https://www.npmjs.com/package/krowa"><img src="https://img.shields.io/badge/package-krowa-%234f2218?style=for-the-badge" style="max-width:100%;" alt="npm"></a>
+    <a href="https://travis-ci.com/colenh/krowa"><img src="https://img.shields.io/travis/com/colenh/krowa?color=%234f2218&style=for-the-badge" style="max-width:100%;" alt="build"/></a>
+    <a href="https://github.com/colenh/krowa/blob/main/LICENSE"><img src="https://img.shields.io/github/license/colenh/krowa?color=4f2218&style=for-the-badge" style="max-width:100%;" alt="license"></a>
+    <a href="https://david-dm.org/colenh/krowa"><img src="https://img.shields.io/david/colenh/krowa?color=4f2218&style=for-the-badge" style="max-width:100%;" alt="dependencies"></a>
+    <a><img src="https://img.shields.io/snyk/vulnerabilities/npm/krowa?color=4f2218&style=for-the-badge" style="max-width:100%;" alt="vulnerabilities"></a>
 </p>
 
 ## about
