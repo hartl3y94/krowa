@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="docs_include/banner.png" alt="krowa" width="250"/>
+    <img src="docs_include/banner.svg" alt="krowa" width="250"/>
     <br>
 </h1>
 
