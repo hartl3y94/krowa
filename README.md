@@ -8,7 +8,7 @@
     <a href="https://discord.gg/WK2qTecTkJ"><img src="https://img.shields.io/badge/discord-krowa-%234f2218?style=for-the-badge" style="max-width:100%;" alt="discord"></a>
     <a href="https://travis-ci.com/colenh/krowa"><img src="https://img.shields.io/travis/com/colenh/krowa?color=%234f2218&style=for-the-badge" style="max-width:100%;" alt="build"/></a>
     <a href="https://github.com/colenh/krowa/blob/main/LICENSE"><img src="https://img.shields.io/github/license/colenh/krowa?color=4f2218&style=for-the-badge" style="max-width:100%;" alt="license"></a>
-    <a href="https://github.com/colenh/krowa"><img src="https://img.shields.io/github/languages/code-size/colenh/krowa?color=4f2218&style=for-the-badge" style="max-width:100%;" alt="size">
+    <a href="https://github.com/colenh/krowa"><img src="https://img.shields.io/github/languages/code-size/colenh/krowa?color=4f2218&style=for-the-badge" style="max-width:100%;" alt="size"></a>
 </p>
 
 ## about
